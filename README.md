@@ -74,9 +74,21 @@ All security vulnerabilities will be promptly addressed.
 
 ## Screenshot
 <a href="https://ibb.co/ZxQsvYn"><img src="https://i.ibb.co/1TCVBdD/Screenshot-2023-10-14-175243.png" alt="Screenshot-2023-10-14-175243" border="0" /></a>
-
-
-
+<a href="https://ibb.co/sjvT2DG"><img src="https://i.ibb.co/sjvT2DG/Screenshot-2023-10-14-175256.png" alt="Screenshot-2023-10-14-175256" border="0" /></a>
+<a href="https://ibb.co/6Y4WcxW"><img src="https://i.ibb.co/6Y4WcxW/Screenshot-2023-10-14-175311.png" alt="Screenshot-2023-10-14-175311" border="0" /></a>
+<a href="https://ibb.co/6Y4WcxW"><img src="https://i.ibb.co/6Y4WcxW/Screenshot-2023-10-14-175311.png" alt="Screenshot-2023-10-14-175311" border="0" /></a>
+<a href="https://ibb.co/2ncrGB4"><img src="https://i.ibb.co/2ncrGB4/Screenshot-2023-10-14-175341.png" alt="Screenshot-2023-10-14-175341" border="0" /></a>
+<a href="https://ibb.co/hd32SD9"><img src="https://i.ibb.co/hd32SD9/Screenshot-2023-10-14-175405.png" alt="Screenshot-2023-10-14-175405" border="0" /></a>
+<a href="https://ibb.co/v3F0HFy"><img src="https://i.ibb.co/v3F0HFy/Screenshot-2023-10-14-175441.png" alt="Screenshot-2023-10-14-175441" border="0" /></a>
+<a href="https://ibb.co/HC6bL7b"><img src="https://i.ibb.co/HC6bL7b/Screenshot-2023-10-14-183844.png" alt="Screenshot-2023-10-14-183844" border="0" /></a>
+<a href="https://ibb.co/HC6bL7b"><img src="https://i.ibb.co/HC6bL7b/Screenshot-2023-10-14-183844.png" alt="Screenshot-2023-10-14-183844" border="0" /></a>
+<a href="https://ibb.co/JKbtMMc"><img src="https://i.ibb.co/JKbtMMc/Screenshot-2023-10-14-184113.png" alt="Screenshot-2023-10-14-184113" border="0" /></a>
+<a href="https://ibb.co/pybXfHV"><img src="https://i.ibb.co/pybXfHV/Screenshot-2023-10-14-184142.png" alt="Screenshot-2023-10-14-184142" border="0" /></a>
+<a href="https://ibb.co/my54fTs"><img src="https://i.ibb.co/my54fTs/Screenshot-2023-10-14-184206.png" alt="Screenshot-2023-10-14-184206" border="0" /></a>
+<a href="https://ibb.co/6HcSs8N"><img src="https://i.ibb.co/6HcSs8N/Screenshot-2023-10-14-184255.png" alt="Screenshot-2023-10-14-184255" border="0" /></a>
+<a href="https://ibb.co/2FXVsjt"><img src="https://i.ibb.co/2FXVsjt/Screenshot-2023-10-14-184306.png" alt="Screenshot-2023-10-14-184306" border="0" /></a>
+<a href="https://ibb.co/89t09Xr"><img src="https://i.ibb.co/89t09Xr/Screenshot-2023-10-14-184325.png" alt="Screenshot-2023-10-14-184325" border="0" /></a>
+<a href="https://ibb.co/c2nDhdP"><img src="https://i.ibb.co/c2nDhdP/Screenshot-2023-10-14-184406.png" alt="Screenshot-2023-10-14-184406" border="0" /></a>
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
