@@ -63,7 +63,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## Security Vulnerabilities
 
-([(https://ibb.co/ZxQsvYn)])
 
 
 
